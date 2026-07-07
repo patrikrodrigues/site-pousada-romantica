@@ -1,6 +1,6 @@
 import { Container } from "@/components/ui/container";
 import { house } from "@/data/house";
-import { Sparkles, HeartHandshake, ShieldCheck, Star } from "lucide-react";
+import { HeartHandshake, ShieldCheck, Star } from "lucide-react";
 
 const highlights = [
   {
